@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{gonthier}
+Georges Gonthier.
+\newblock Formal proof -- the {Four-Color} theorem.
+\newblock {\em Notices of the American Mathematical Society.}, page 1382, 2008.
+
+\bibitem{huth}
+Michael Huth and Mark Ryan.
+\newblock {\em Logic in computer science : modelling and reasoning about
+  systems}.
+\newblock Cambridge University Press, Cambridge, {[England];} New York, 2004.
+
+\bibitem{megill}
+Norman Megill.
+\newblock Metamath.
+\newblock {http://users.shore.net/\%7Endm/java/mm.html}.
+
+\bibitem{qed_re}
+F.~Wiedijk, Roman Matuszewski, and Anna Zalewska.
+\newblock The {QED} manifesto revisited, 2007.
+
+\end{thebibliography}
